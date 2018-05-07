@@ -1,0 +1,18 @@
+.palel-primary
+{
+  border-color: #bce8f1;
+}
+.panel-primary>.panel-heading
+{
+  background:#bce8f1;
+
+}
+.panel-primary>.panel-body
+{
+  background-color: #EDEDED;
+}
+
+
+.table-responsive {
+    max-height:300px;
+}
